@@ -1,3 +1,3 @@
 # usercart
 
-## A cart that stores a customer's list of item(s) purchased.
+## A cart that stores customers' list of item(s) interested in..
